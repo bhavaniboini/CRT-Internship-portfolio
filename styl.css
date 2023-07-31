@@ -60,7 +60,7 @@
 }
 
 .servicesText.card {
-    height: 280px;
+    height: 260px;
     cursor: pointer;
   }
 .servicesIcon {
@@ -76,4 +76,15 @@
 }
 .servicesText:hover {
     border: 1px solid #008000;
+} 
+.card-image{
+    height:280px
+}
+.card {
+
+    height: 390px
+}
+
+.img-h {
+    height: 270px;
 }
